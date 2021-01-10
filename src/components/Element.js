@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Button, Row, Container, Col } from "react-bootstrap";
+import { Button, Container } from "react-bootstrap";
 import styles from "../styles.module.css";
 
 const Element = ({ name, setElements, setComplete, setName }) => {
